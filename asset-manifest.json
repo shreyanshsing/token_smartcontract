@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/token_smartcontract/static/css/main.8376aca7.chunk.css",
-    "main.js": "/token_smartcontract/static/js/main.a070b9ae.chunk.js",
-    "main.js.map": "/token_smartcontract/static/js/main.a070b9ae.chunk.js.map",
+    "main.js": "/token_smartcontract/static/js/main.078e0d30.chunk.js",
+    "main.js.map": "/token_smartcontract/static/js/main.078e0d30.chunk.js.map",
     "runtime-main.js": "/token_smartcontract/static/js/runtime-main.d6e03ffe.js",
     "runtime-main.js.map": "/token_smartcontract/static/js/runtime-main.d6e03ffe.js.map",
     "static/js/2.adbbd14b.chunk.js": "/token_smartcontract/static/js/2.adbbd14b.chunk.js",
     "static/js/2.adbbd14b.chunk.js.map": "/token_smartcontract/static/js/2.adbbd14b.chunk.js.map",
     "index.html": "/token_smartcontract/index.html",
-    "precache-manifest.12d96f01687fcd7c46cc5f18b7a32011.js": "/token_smartcontract/precache-manifest.12d96f01687fcd7c46cc5f18b7a32011.js",
+    "precache-manifest.94c9b0581270248357f8a049b83caeda.js": "/token_smartcontract/precache-manifest.94c9b0581270248357f8a049b83caeda.js",
     "service-worker.js": "/token_smartcontract/service-worker.js",
     "static/css/main.8376aca7.chunk.css.map": "/token_smartcontract/static/css/main.8376aca7.chunk.css.map",
     "static/js/2.adbbd14b.chunk.js.LICENSE.txt": "/token_smartcontract/static/js/2.adbbd14b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d6e03ffe.js",
     "static/js/2.adbbd14b.chunk.js",
     "static/css/main.8376aca7.chunk.css",
-    "static/js/main.a070b9ae.chunk.js"
+    "static/js/main.078e0d30.chunk.js"
   ]
 }
