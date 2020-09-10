@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45c8c046b60f1fdb4a8ae61820747890",
+    "revision": "4156472539653dcc21cffca73c5995af",
     "url": "/token_smartcontract/index.html"
   },
   {
-    "revision": "58202f10129b8c7c6179",
+    "revision": "8d0aa9b037b54acc6a4c",
     "url": "/token_smartcontract/static/css/main.8376aca7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/token_smartcontract/static/js/2.adbbd14b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "58202f10129b8c7c6179",
-    "url": "/token_smartcontract/static/js/main.0b3a764c.chunk.js"
+    "revision": "8d0aa9b037b54acc6a4c",
+    "url": "/token_smartcontract/static/js/main.83d233fc.chunk.js"
   },
   {
     "revision": "20a7661e1bae62e450a4",

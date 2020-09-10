@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/token_smartcontract/precache-manifest.9170e6ec74dd3bc48ce539445ca492ea.js"
+  "/token_smartcontract/precache-manifest.e70bc40d59267230b1a3061c2d487d6f.js"
 );
 
 self.addEventListener('message', (event) => {
